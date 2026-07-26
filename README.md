@@ -41,8 +41,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 | Tier | Solved | Total | Progress |
 |:----:|:------:|:-----:|:--------:|
-| 🟢 **Apprentice** | `25` | `61` | ![37%](https://img.shields.io/badge/-37.7%25-22C55E?style=flat-square) |
-| 🟡 **Practitioner** | `34` | `174` | ![17%](https://img.shields.io/badge/-17.8%25-F59E0B?style=flat-square) |
+| 🟢 **Apprentice** | `30` | `61` | ![37%](https://img.shields.io/badge/-37.7%25-22C55E?style=flat-square) |
+| 🟡 **Practitioner** | `38` | `174` | ![17%](https://img.shields.io/badge/-17.8%25-F59E0B?style=flat-square) |
 | 🔴 **Expert** | `2` | `39` | ![5%](https://img.shields.io/badge/-5%25-EF4444?style=flat-square) |
 | ⚡ **Total** | `61` | `274` | ![20.4%](https://img.shields.io/badge/-20.4%25-0A84FF?style=flat-square) |
 
