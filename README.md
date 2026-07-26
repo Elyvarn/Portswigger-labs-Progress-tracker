@@ -149,14 +149,14 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | `60` | 2026-07-15 | File upload vulnerabilities | Web shell upload via obfuscated file extension | ![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
 | `61` | 2026-07-16 | File upload vulnerabilities | Remote code execution via polyglot web shell upload | ![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
 | `62` | 2026-07-20 | Race conditions | Limit overrun race conditions | ![](https://img.shields.io/badge/APPRENTICE-22C55E?style=flat-square) | — |
-| `63` | 2026-07-20 | Race conditions | Bypassing rate limits via race conditions | ![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
+| `63` | 2026-07-21 | Race conditions | Bypassing rate limits via race conditions | ![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
 | `64` | 2026-06-21 | Race conditions | Multi-endpoint race conditions | ![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
-| `65` | 2026-06-21 | Race conditions | Single-endpoint race conditions |![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
-| `66` | 2026-06-22 | Race conditions | Exploiting time-sensitive vulnerabilities | ![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
-| `67` | 2026-06-22 | NoSQL injection | Detecting NoSQL injection | ![](https://img.shields.io/badge/APPRENTICE-22C55E?style=flat-square) | — |
-| `68` | 2026-06-22 | NoSQL injection | Exploiting NoSQL operator injection to bypass authentication | ![](https://img.shields.io/badge/APPRENTICE-22C55E?style=flat-square) | — |
-| `69` | 2026-06-23 | API testing | Exploiting an API endpoint using documentation | ![](https://img.shields.io/badge/APPRENTICE-22C55E?style=flat-square) | — |
-| `70` | 2026-06-00 | Web LLM attacks | Exploiting LLM APIs with excessive agency | ![](https://img.shields.io/badge/APPRENTICE-22C55E?style=flat-square) | — |
+| `65` | 2026-06-22 | Race conditions | Single-endpoint race conditions |![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
+| `66` | 2026-06-23 | Race conditions | Exploiting time-sensitive vulnerabilities | ![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
+| `67` | 2026-06-24 | NoSQL injection | Detecting NoSQL injection | ![](https://img.shields.io/badge/APPRENTICE-22C55E?style=flat-square) | — |
+| `68` | 2026-06-25 | NoSQL injection | Exploiting NoSQL operator injection to bypass authentication | ![](https://img.shields.io/badge/APPRENTICE-22C55E?style=flat-square) | — |
+| `69` | 2026-06-25 | API testing | Exploiting an API endpoint using documentation | ![](https://img.shields.io/badge/APPRENTICE-22C55E?style=flat-square) | — |
+| `70` | 2026-06-26 | Web LLM attacks | Exploiting LLM APIs with excessive agency | ![](https://img.shields.io/badge/APPRENTICE-22C55E?style=flat-square) | — |
 | `71` | 2026-06-00 | — | *Pending...* | — | — |
 | `72` | 2026-06-00 | - | *Pending...* | — | — |
 | `73` | 2026-06-00 | — | *Pending...* | — | — |
