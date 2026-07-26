@@ -143,12 +143,32 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | `58` | 2026-07-14 | File upload vulnerabilities | Web shell upload via Content-Type restriction bypass | ![](https://img.shields.io/badge/APPRENTICE-22C55E?style=flat-square) | — |
 | `59` | 2026-07-15 | File upload vulnerabilities | Web shell upload via path traversal | ![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
 | `60` | 2026-07-15 | File upload vulnerabilities | Web shell upload via obfuscated file extension | ![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
-| `57` | 2026-07-16 | File upload vulnerabilities | Remote code execution via polyglot web shell upload | ![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
-| `58` | 2026-06-00 | - | *Pending...* | — | — |
-| `59` | 2026-06-00 | — | *Pending...* | — | — |
-| `60` | 2026-06-00 | — | *Pending...* | — | — |
-| `61` | 2026-06-00 | — | *Pending...* | — | — |
-| `62` | 2026-06-00 | — | *Pending...* | — | — |
+| `61` | 2026-07-16 | File upload vulnerabilities | Remote code execution via polyglot web shell upload | ![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
+| `62` | 2026-07-20 | Race conditions | Limit overrun race conditions | ![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
+| `63` | 2026-07-20 | Race conditions | Bypassing rate limits via race conditions | ![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
+| `64` | 2026-06-21 | Race conditions | Multi-endpoint race conditions | ![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
+| `65` | 2026-06-21 | Race conditions | Single-endpoint race conditions |![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
+| `66` | 2026-06-22 | Race conditions | Exploiting time-sensitive vulnerabilities | ![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
+| `67` | 2026-06-22 | - | *Pending...* | — | — |
+| `68` | 2026-06-22 | — | *Pending...* | — | — |
+| `69` | 2026-06-23 | — | *Pending...* | — | — |
+| `70` | 2026-06-00 | — | *Pending...* | — | — |
+| `71` | 2026-06-00 | — | *Pending...* | — | — |
+| `72` | 2026-06-00 | - | *Pending...* | — | — |
+| `73` | 2026-06-00 | — | *Pending...* | — | — |
+| `74` | 2026-06-00 | — | *Pending...* | — | — |
+| `75` | 2026-06-00 | — | *Pending...* | — | — |
+| `76` | 2026-06-00 | — | *Pending...* | — | — |
+| `77` | 2026-06-00 | - | *Pending...* | — | — |
+| `78` | 2026-06-00 | — | *Pending...* | — | — |
+| `79` | 2026-06-00 | — | *Pending...* | — | — |
+| `80` | 2026-06-00 | — | *Pending...* | — | — |
+| `81` | 2026-06-00 | — | *Pending...* | — | — |
+| `82` | 2026-06-00 | - | *Pending...* | — | — |
+| `83` | 2026-06-00 | — | *Pending...* | — | — |
+| `84` | 2026-06-00 | — | *Pending...* | — | — |
+| `85` | 2026-06-00 | — | *Pending...* | — | — |
+| `86` | 2026-06-00 | — | *Pending...* | — | — |
 
 
 ---
