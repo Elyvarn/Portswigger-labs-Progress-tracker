@@ -144,7 +144,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | `59` | 2026-07-15 | File upload vulnerabilities | Web shell upload via path traversal | ![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
 | `60` | 2026-07-15 | File upload vulnerabilities | Web shell upload via obfuscated file extension | ![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
 | `61` | 2026-07-16 | File upload vulnerabilities | Remote code execution via polyglot web shell upload | ![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
-| `62` | 2026-07-20 | Race conditions | Limit overrun race conditions | ![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
+| `62` | 2026-07-20 | Race conditions | Limit overrun race conditions | ![](https://img.shields.io/badge/APPRENTICE-22C55E?style=flat-square) | — |
 | `63` | 2026-07-20 | Race conditions | Bypassing rate limits via race conditions | ![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
 | `64` | 2026-06-21 | Race conditions | Multi-endpoint race conditions | ![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
 | `65` | 2026-06-21 | Race conditions | Single-endpoint race conditions |![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
