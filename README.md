@@ -152,7 +152,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | `67` | 2026-06-22 | NoSQL injection | Detecting NoSQL injection | ![](https://img.shields.io/badge/APPRENTICE-22C55E?style=flat-square) | — |
 | `68` | 2026-06-22 | NoSQL injection | Exploiting NoSQL operator injection to bypass authentication | ![](https://img.shields.io/badge/APPRENTICE-22C55E?style=flat-square) | — |
 | `69` | 2026-06-23 | API testing | Exploiting an API endpoint using documentation | — | — |
-| `70` | 2026-06-00 | — | Exploiting LLM APIs with excessive agency | — | — |
+| `70` | 2026-06-00 | Web LLM attacks | Exploiting LLM APIs with excessive agency | — | — |
 | `71` | 2026-06-00 | — | *Pending...* | — | — |
 | `72` | 2026-06-00 | - | *Pending...* | — | — |
 | `73` | 2026-06-00 | — | *Pending...* | — | — |
