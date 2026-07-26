@@ -152,7 +152,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | `63` | 2026-07-21 | Race conditions | Bypassing rate limits via race conditions | ![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
 | `64` | 2026-06-21 | Race conditions | Multi-endpoint race conditions | ![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
 | `65` | 2026-06-22 | Race conditions | Single-endpoint race conditions |![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
-| `66` | 2026-06-23 | Race conditions | Exploiting time-sensitive vulnerabilities | ![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | — |
+| `66` | 2026-06-23 | Race conditions | Exploiting time-sensitive vulnerabilities | ![](https://img.shields.io/badge/PRACTITIONER-F59E0B?style=flat-square) | [📄 Writeup](writeups/items/Exploiting-time-sensitive-vulnerabilities.md) |
 | `67` | 2026-06-24 | NoSQL injection | Detecting NoSQL injection | ![](https://img.shields.io/badge/APPRENTICE-22C55E?style=flat-square) | — |
 | `68` | 2026-06-25 | NoSQL injection | Exploiting NoSQL operator injection to bypass authentication | ![](https://img.shields.io/badge/APPRENTICE-22C55E?style=flat-square) | — |
 | `69` | 2026-06-25 | API testing | Exploiting an API endpoint using documentation | ![](https://img.shields.io/badge/APPRENTICE-22C55E?style=flat-square) | — |
