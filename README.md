@@ -158,9 +158,9 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | `68` | 2026-06-25 | NoSQL injection | Exploiting NoSQL operator injection to bypass authentication | ![](https://img.shields.io/badge/APPRENTICE-22C55E?style=flat-square) | — |
 | `69` | 2026-06-25 | API testing | Exploiting an API endpoint using documentation | ![](https://img.shields.io/badge/APPRENTICE-22C55E?style=flat-square) | — |
 | `70` | 2026-06-26 | Web LLM attacks | Exploiting LLM APIs with excessive agency | ![](https://img.shields.io/badge/APPRENTICE-22C55E?style=flat-square) | — |
-| `71` | 2026-06-00 | — | *Pending...* | — | — |
-| `72` | 2026-06-00 | - | *Pending...* | — | — |
-| `73` | 2026-06-00 | — | *Pending...* | — | — |
+| `71` | 2026-06-00 | Server-side request forgery (SSRF) | Basic SSRF against the local server | — |  |
+| `72` | 2026-06-00 | Server-side request forgery (SSRF) | Basic SSRF against another back-end system | — | — |
+| `73` | 2026-06-00 | Server-side request forgery (SSRF) | Blind SSRF with out-of-band detection | — | — |
 | `74` | 2026-06-00 | — | *Pending...* | — | — |
 | `75` | 2026-06-00 | — | *Pending...* | — | — |
 | `76` | 2026-06-00 | — | *Pending...* | — | — |
