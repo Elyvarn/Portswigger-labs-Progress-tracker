@@ -15,7 +15,7 @@
 
 ---
 
-![Solved](https://img.shields.io/badge/Labs%20Solved-70-informational?style=for-the-badge&logo=target&logoColor=white&color=0A84FF)
+![Solved](https://img.shields.io/badge/Labs%20Solved-82-informational?style=for-the-badge&logo=target&logoColor=white&color=0A84FF)
 ![Updated](https://img.shields.io/badge/Last%20Updated-2026--08--09-informational?style=for-the-badge&logo=clockify&logoColor=white&color=F59E0B)
 ![Level](https://img.shields.io/badge/Level-NEWBIE-informational?style=for-the-badge&logo=hackthebox&logoColor=white&color=22C55E)
 ![Progress](https://img.shields.io/badge/Overall%20Progress-9.1%25-informational?style=for-the-badge&logo=progress&logoColor=white&color=8B5CF6)
