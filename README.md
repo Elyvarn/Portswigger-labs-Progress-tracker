@@ -158,18 +158,18 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | `68` | 2026-06-25 | NoSQL injection | Exploiting NoSQL operator injection to bypass authentication | ![](https://img.shields.io/badge/APPRENTICE-22C55E?style=flat-square) | — |
 | `69` | 2026-06-25 | API testing | Exploiting an API endpoint using documentation | ![](https://img.shields.io/badge/APPRENTICE-22C55E?style=flat-square) | — |
 | `70` | 2026-06-26 | Web LLM attacks | Exploiting LLM APIs with excessive agency | ![](https://img.shields.io/badge/APPRENTICE-22C55E?style=flat-square) | — |
-| `71` | 2026-06-00 | Server-side request forgery (SSRF) | Basic SSRF against the local server | — |  |
-| `72` | 2026-06-00 | Server-side request forgery (SSRF) | Basic SSRF against another back-end system | — | — |
-| `73` | 2026-06-00 | Server-side request forgery (SSRF) | Blind SSRF with out-of-band detection | — | — |
-| `74` | 2026-06-00 | API testing | Exploiting server-side parameter pollution in a query string | — | — |
-| `75` | 2026-06-00 | API testing | Finding and exploiting an unused API endpoint | — | — |
-| `76` | 2026-06-00 | API testing | Exploiting a mass assignment vulnerability | — | — |
-| `77` | 2026-06-00 | API testing | Exploiting server-side parameter pollution in a REST URL | — | — |
-| `78` | 2026-06-00 | GraphQL API vulnerabilities | Accessing private GraphQL posts | — | — |
-| `79` | 2026-06-00 | GraphQL API vulnerabilities | Accidental exposure of private GraphQL fields | — | — |
-| `80` | 2026-06-00 | GraphQL API vulnerabilities | Finding a hidden GraphQL endpoint | — | — |
-| `81` | 2026-06-00 | GraphQL API vulnerabilities | Bypassing GraphQL brute force protections | — | — |
-| `82` | 2026-06-00 | GraphQL API vulnerabilities | Performing CSRF exploits over GraphQL | — | — |
+| `71` | 2026-07-27 | Server-side request forgery (SSRF) | Basic SSRF against the local server | — |  |
+| `72` | 2026-07-28 | Server-side request forgery (SSRF) | Basic SSRF against another back-end system | — | — |
+| `73` | 2026-08-03 | Server-side request forgery (SSRF) | Blind SSRF with out-of-band detection | — | — |
+| `74` | 2026-08-03 | API testing | Exploiting server-side parameter pollution in a query string | — | — |
+| `75` | 2026-08-04 | API testing | Finding and exploiting an unused API endpoint | — | — |
+| `76` | 2026-08-05 | API testing | Exploiting a mass assignment vulnerability | — | — |
+| `77` | 2026-08-06 | API testing | Exploiting server-side parameter pollution in a REST URL | — | — |
+| `78` | 2026-08-06 | GraphQL API vulnerabilities | Accessing private GraphQL posts | — | — |
+| `79` | 2026-08-07 | GraphQL API vulnerabilities | Accidental exposure of private GraphQL fields | — | — |
+| `80` | 2026-08-08 | GraphQL API vulnerabilities | Finding a hidden GraphQL endpoint | — | — |
+| `81` | 2026-08-08 | GraphQL API vulnerabilities | Bypassing GraphQL brute force protections | — | — |
+| `82` | 2026-08-09 | GraphQL API vulnerabilities | Performing CSRF exploits over GraphQL | — | — |
 | `83` | 2026-06-00 | — | *Pending...* | — | — |
 | `84` | 2026-06-00 | — | *Pending...* | — | — |
 | `85` | 2026-06-00 | — | *Pending...* | — | — |
