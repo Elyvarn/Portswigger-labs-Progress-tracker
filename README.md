@@ -161,10 +161,10 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | `71` | 2026-06-00 | Server-side request forgery (SSRF) | Basic SSRF against the local server | — |  |
 | `72` | 2026-06-00 | Server-side request forgery (SSRF) | Basic SSRF against another back-end system | — | — |
 | `73` | 2026-06-00 | Server-side request forgery (SSRF) | Blind SSRF with out-of-band detection | — | — |
-| `74` | 2026-06-00 | — | *Pending...* | — | — |
-| `75` | 2026-06-00 | — | *Pending...* | — | — |
-| `76` | 2026-06-00 | — | *Pending...* | — | — |
-| `77` | 2026-06-00 | - | *Pending...* | — | — |
+| `74` | 2026-06-00 | API testing | Exploiting server-side parameter pollution in a query string | — | — |
+| `75` | 2026-06-00 | API testing | Finding and exploiting an unused API endpoint | — | — |
+| `76` | 2026-06-00 | API testing | Exploiting a mass assignment vulnerability | — | — |
+| `77` | 2026-06-00 | API testing | Exploiting server-side parameter pollution in a REST URL | — | — |
 | `78` | 2026-06-00 | — | *Pending...* | — | — |
 | `79` | 2026-06-00 | — | *Pending...* | — | — |
 | `80` | 2026-06-00 | — | *Pending...* | — | — |
