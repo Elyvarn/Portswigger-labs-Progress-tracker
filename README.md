@@ -66,6 +66,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | NoSQL injection | `2` | `4` | ![In progress](https://img.shields.io/badge/IN%20PROGRESS-F59E0B?style=flat-square) |
 | API testing | `1 ` | `5 ` | ![In progress](https://img.shields.io/badge/IN%20PROGRESS-F59E0B?style=flat-square) |
 | Web LLM attacks | `1` | `8` | ![In progress](https://img.shields.io/badge/IN%20PROGRESS-F59E0B?style=flat-square) |
+| Server-side request forgery (SSRF) | `3` | `7` | ![In progress](https://img.shields.io/badge/IN%20PROGRESS-F59E0B?style=flat-square |
 ---
 
 ## 🗺️ How to Read
