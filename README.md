@@ -165,11 +165,11 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | `75` | 2026-06-00 | API testing | Finding and exploiting an unused API endpoint | — | — |
 | `76` | 2026-06-00 | API testing | Exploiting a mass assignment vulnerability | — | — |
 | `77` | 2026-06-00 | API testing | Exploiting server-side parameter pollution in a REST URL | — | — |
-| `78` | 2026-06-00 | — | *Pending...* | — | — |
-| `79` | 2026-06-00 | — | *Pending...* | — | — |
-| `80` | 2026-06-00 | — | *Pending...* | — | — |
-| `81` | 2026-06-00 | — | *Pending...* | — | — |
-| `82` | 2026-06-00 | - | *Pending...* | — | — |
+| `78` | 2026-06-00 | GraphQL API vulnerabilities | Accessing private GraphQL posts | — | — |
+| `79` | 2026-06-00 | GraphQL API vulnerabilities | Accidental exposure of private GraphQL fields | — | — |
+| `80` | 2026-06-00 | GraphQL API vulnerabilities | Finding a hidden GraphQL endpoint | — | — |
+| `81` | 2026-06-00 | GraphQL API vulnerabilities | Bypassing GraphQL brute force protections | — | — |
+| `82` | 2026-06-00 | GraphQL API vulnerabilities | Performing CSRF exploits over GraphQL | — | — |
 | `83` | 2026-06-00 | — | *Pending...* | — | — |
 | `84` | 2026-06-00 | — | *Pending...* | — | — |
 | `85` | 2026-06-00 | — | *Pending...* | — | — |
