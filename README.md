@@ -171,10 +171,28 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | `80` | 2026-08-08 | GraphQL API vulnerabilities | Finding a hidden GraphQL endpoint | — | — |
 | `81` | 2026-08-08 | GraphQL API vulnerabilities | Bypassing GraphQL brute force protections | — | — |
 | `82` | 2026-08-09 | GraphQL API vulnerabilities | Performing CSRF exploits over GraphQL | — | — |
-| `83` | 2026-06-00 | — | *Pending...* | — | — |
-| `84` | 2026-06-00 | — | *Pending...* | — | — |
-| `85` | 2026-06-00 | — | *Pending...* | — | — |
-| `86` | 2026-06-00 | — | *Pending...* | — | — |
+| `83` | 2026-08-00 | — | *Pending...* | — | — |
+| `84` | 2026-08-00 | — | *Pending...* | — | — |
+| `85` | 2026-08-00 | — | *Pending...* | — | — |
+| `86` | 2026-08-00 | — | *Pending...* | — | — |
+| `86` | 2026-08-00 | — | *Pending...* | — | — |
+| `86` | 2026-08-00 | — | *Pending...* | — | — |
+| `86` | 2026-08-00 | — | *Pending...* | — | — |
+| `86` | 2026-08-00 | — | *Pending...* | — | — |
+| `86` | 2026-08-00 | — | *Pending...* | — | — |
+| `86` | 2026-08-00 | — | *Pending...* | — | — |
+| `86` | 2026-08-00 | — | *Pending...* | — | — |
+| `86` | 2026-08-00 | — | *Pending...* | — | — |
+| `86` | 2026-08-00 | — | *Pending...* | — | — |
+| `86` | 2026-08-00 | — | *Pending...* | — | — |
+| `86` | 2026-08-00 | — | *Pending...* | — | — |
+| `86` | 2026-08-00 | — | *Pending...* | — | — |
+| `86` | 2026-08-00 | — | *Pending...* | — | — |
+| `86` | 2026-08-00 | — | *Pending...* | — | — |
+| `86` | 2026-08-00 | — | *Pending...* | — | — |
+| `86` | 2026-08-00 | — | *Pending...* | — | — |
+| `86` | 2026-08-00 | — | *Pending...* | — | — |
+| `86` | 2026-08-00 | — | *Pending...* | — | — |
 
 
 ---
