@@ -14,13 +14,11 @@
 *Pwning labs. Taking notes. Breaking things responsibly.*
 
 ---
-
-![Solved](https://img.shields.io/badge/Labs%20Solved-108-informational?style=for-the-badge&logo=target&logoColor=white&color=0A84FF)
-![Updated](https://img.shields.io/badge/Last%20Updated-2026--08--16-informational?style=for-the-badge&logo=clockify&logoColor=white&color=F59E0B)
-![Level](https://img.shields.io/badge/Level-NEWBIE-informational?style=for-the-badge&logo=hackthebox&logoColor=white&color=22C55E)
-![Progress](https://img.shields.io/badge/Overall%20Progress-9.1%25-informational?style=for-the-badge&logo=progress&logoColor=white&color=8B5CF6)
-![Tool](https://img.shields.io/badge/Tool-Burp%20Suite-informational?style=for-the-badge&logo=burpsuite&logoColor=white&color=FF6633)
-
+[![Solved](https://img.shields.io/badge/Labs%20Solved-108-informational?style=for-the-badge&logo=target&logoColor=white&color=0A84FF)](https://portswigger.net/web-security)
+[![Updated](https://img.shields.io/badge/Last%20Updated-2026--08--16-informational?style=for-the-badge&logo=clockify&logoColor=white&color=F59E0B)](https://portswigger.net/web-security)
+[![Level](https://img.shields.io/badge/Level-PRACTITIONER-informational?style=for-the-badge&logo=hackthebox&logoColor=white&color=F59E0B)](https://portswigger.net/web-security)
+[![Progress](https://img.shields.io/badge/Overall%20Progress-39.4%25-informational?style=for-the-badge&logo=progress&logoColor=white&color=8B5CF6)](https://portswigger.net/web-security)
+[![Tool](https://img.shields.io/badge/Tool-Burp%20Suite-informational?style=for-the-badge&logo=burpsuite&logoColor=white&color=FF6633)](https://portswigger.net/burp)
 </div>
 
 ---
