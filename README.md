@@ -175,37 +175,37 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | `84` | 2026-08-00 | Cross-site scripting | Reflected XSS into a JavaScript string with angle brackets HTML encoded | — | — |
 | `85` | 2026-08-00 | Cross-site scripting | DOM XSS in document.write sink using source location.search inside a select element | — | — |
 | `86` | 2026-08-00 | Cross-site scripting | DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded | — | — |
-| `86` | 2026-08-00 | Cross-site scripting | Reflected DOM XSS | — | — |
-| `86` | 2026-08-00 | Cross-site scripting | Stored DOM XSS | — | — |
-| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS into HTML context with most tags and attributes blocked | — | — |
-| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS into HTML context with all tags blocked except custom ones | — | — |
-| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS with some SVG markup allowed | — | — |
-| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS in canonical link tag | — | — |
-| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS into a JavaScript string with single quote and backslash escaped | — | — |
-| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped | — | — |
-| `86` | 2026-08-00 | Cross-site scripting | Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped | — | — |
-| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped | — | — |
-| `86` | 2026-08-00 | Cross-site scripting | Exploiting cross-site scripting to steal cookies | — | — |
-| `86` | 2026-08-00 | Cross-site scripting | Exploiting cross-site scripting to capture passwords | — | — |
-| `86` | 2026-08-00 | Cross-site scripting | Exploiting XSS to bypass CSRF defenses | — | — |
-| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS with AngularJS sandbox escape without strings | — | — |
-| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS with AngularJS sandbox escape and CSP | — | — |
-| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS with event handlers and href attributes blocked | — | — |
-| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS in a JavaScript URL with some characters blocked | — | — |
-| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS protected by very strict CSP, with dangling markup attack | — | — |
-| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS protected by CSP, with CSP bypass | — | — |
-| `86` | 2026-08-00 | Cross-origin resource sharing (CORS) | CORS vulnerability with basic origin reflection | — | — |
-| `86` | 2026-08-00 | Cross-origin resource sharing (CORS) | CORS vulnerability with trusted null origin | — | — |
-| `86` | 2026-08-00 | Cross-origin resource sharing (CORS) | CORS vulnerability with trusted insecure protocols | — | — |
-| `86` | 2026-08-00 | — | *Pending...* | — | — |
-| `86` | 2026-08-00 | — | *Pending...* | — | — |
-| `86` | 2026-08-00 | — | *Pending...* | — | — |
-| `86` | 2026-08-00 | — | *Pending...* | — | — |
-| `86` | 2026-08-00 | — | *Pending...* | — | — |
-| `86` | 2026-08-00 | — | *Pending...* | — | — |
-| `86` | 2026-08-00 | — | *Pending...* | — | — |
-| `86` | 2026-08-00 | — | *Pending...* | — | — |
-| `86` | 2026-08-00 | — | *Pending...* | — | — |
+| `87` | 2026-08-00 | Cross-site scripting | Reflected DOM XSS | — | — |
+| `88` | 2026-08-00 | Cross-site scripting | Stored DOM XSS | — | — |
+| `89` | 2026-08-00 | Cross-site scripting | Reflected XSS into HTML context with most tags and attributes blocked | — | — |
+| `90` | 2026-08-00 | Cross-site scripting | Reflected XSS into HTML context with all tags blocked except custom ones | — | — |
+| `91` | 2026-08-00 | Cross-site scripting | Reflected XSS with some SVG markup allowed | — | — |
+| `92` | 2026-08-00 | Cross-site scripting | Reflected XSS in canonical link tag | — | — |
+| `93` | 2026-08-00 | Cross-site scripting | Reflected XSS into a JavaScript string with single quote and backslash escaped | — | — |
+| `94` | 2026-08-00 | Cross-site scripting | Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped | — | — |
+| `95` | 2026-08-00 | Cross-site scripting | Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped | — | — |
+| `96` | 2026-08-00 | Cross-site scripting | Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped | — | — |
+| `97` | 2026-08-00 | Cross-site scripting | Exploiting cross-site scripting to steal cookies | — | — |
+| `98` | 2026-08-00 | Cross-site scripting | Exploiting cross-site scripting to capture passwords | — | — |
+| `99` | 2026-08-00 | Cross-site scripting | Exploiting XSS to bypass CSRF defenses | — | — |
+| `100` | 2026-08-00 | Cross-site scripting | Reflected XSS with AngularJS sandbox escape without strings | — | — |
+| `101` | 2026-08-00 | Cross-site scripting | Reflected XSS with AngularJS sandbox escape and CSP | — | — |
+| `102` | 2026-08-00 | Cross-site scripting | Reflected XSS with event handlers and href attributes blocked | — | — |
+| `103` | 2026-08-00 | Cross-site scripting | Reflected XSS in a JavaScript URL with some characters blocked | — | — |
+| `104` | 2026-08-00 | Cross-site scripting | Reflected XSS protected by very strict CSP, with dangling markup attack | — | — |
+| `105` | 2026-08-00 | Cross-site scripting | Reflected XSS protected by CSP, with CSP bypass | — | — |
+| `106` | 2026-08-00 | Cross-origin resource sharing (CORS) | CORS vulnerability with basic origin reflection | — | — |
+| `107` | 2026-08-00 | Cross-origin resource sharing (CORS) | CORS vulnerability with trusted null origin | — | — |
+| `108` | 2026-08-00 | Cross-origin resource sharing (CORS) | CORS vulnerability with trusted insecure protocols | — | — |
+| `109` | 2026-08-00 | — | *Pending...* | — | — |
+| `110` | 2026-08-00 | — | *Pending...* | — | — |
+| `111` | 2026-08-00 | — | *Pending...* | — | — |
+| `112` | 2026-08-00 | — | *Pending...* | — | — |
+| `113` | 2026-08-00 | — | *Pending...* | — | — |
+| `114` | 2026-08-00 | — | *Pending...* | — | — |
+| `115` | 2026-08-00 | — | *Pending...* | — | — |
+| `116` | 2026-08-00 | — | *Pending...* | — | — |
+| `117` | 2026-08-00 | — | *Pending...* | — | — |
 
 
 
