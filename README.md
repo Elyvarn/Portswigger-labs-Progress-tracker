@@ -49,7 +49,6 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 </div>
 
 
-
 ## 🗂️ Categories Covered
 
 | Category | Solved | Total | Status |
@@ -58,17 +57,17 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 💉 SQL injection | `11` | `18` | ![In progress](https://img.shields.io/badge/IN%20PROGRESS-F59E0B?style=flat-square) |
 | 🚪 Access control | `13` | `13` | ![Done](https://img.shields.io/badge/COMPLETE-22C55E?style=flat-square) |
 | 📜 Cross-site scripting | `30` | `30` | ![Done](https://img.shields.io/badge/COMPLETE-22C55E?style=flat-square) |
-| 📂Path traversal | `6` | `6` | ![Done](https://img.shields.io/badge/COMPLETE-22C55E?style=flat-square) |
-| 💻OS command injection | `5` | `5` | ![Done](https://img.shields.io/badge/COMPLETE-22C55E?style=flat-square) |
+| 📂 Path traversal | `6` | `6` | ![Done](https://img.shields.io/badge/COMPLETE-22C55E?style=flat-square) |
+| 💻 OS command injection | `5` | `5` | ![Done](https://img.shields.io/badge/COMPLETE-22C55E?style=flat-square) |
 | 🔌 WebSockets | `0` | `3` | ![Not started](https://img.shields.io/badge/NOT%20STARTED-6B7280?style=flat-square) |
-| 📤File upload vulnerabilities | `5` | `7` | ![In progress](https://img.shields.io/badge/IN%20PROGRESS-F59E0B?style=flat-square) |
-| Web LLM attacks | `5` | `6` |![In progress](https://img.shields.io/badge/IN%20PROGRESS-F59E0B?style=flat-square) |
-| NoSQL injection | `2` | `4` | ![In progress](https://img.shields.io/badge/IN%20PROGRESS-F59E0B?style=flat-square) |
-| API testing | `5 ` | `5 ` | ![Done](https://img.shields.io/badge/COMPLETE-22C55E?style=flat-square) |
-| Web LLM attacks | `1` | `8` | ![In progress](https://img.shields.io/badge/IN%20PROGRESS-F59E0B?style=flat-square) |
-| Server-side request forgery (SSRF) | `3` | `7` | ![In progress](https://img.shields.io/badge/IN%20PROGRESS-F59E0B?style=flat-square) |
-| GraphQL API vulnerabilities | `5` | `5` | ![Done](https://img.shields.io/badge/COMPLETE-22C55E?style=flat-square) |
-| Cross-origin resource sharing (CORS) | `3` | `3` | ![Done](https://img.shields.io/badge/COMPLETE-22C55E?style=flat-square) |
+| 📤 File upload vulnerabilities | `5` | `7` | ![In progress](https://img.shields.io/badge/IN%20PROGRESS-F59E0B?style=flat-square) |
+| 🤖 Web LLM attacks | `5` | `6` | ![In progress](https://img.shields.io/badge/IN%20PROGRESS-F59E0B?style=flat-square) |
+| 🗄️ NoSQL injection | `2` | `4` | ![In progress](https://img.shields.io/badge/IN%20PROGRESS-F59E0B?style=flat-square) |
+| 🔗 API testing | `5 ` | `5 ` | ![Done](https://img.shields.io/badge/COMPLETE-22C55E?style=flat-square) |
+| 🤖 Web LLM attacks | `1` | `8` | ![In progress](https://img.shields.io/badge/IN%20PROGRESS-F59E0B?style=flat-square) |
+| 🔄 Server-side request forgery (SSRF) | `3` | `7` | ![In progress](https://img.shields.io/badge/IN%20PROGRESS-F59E0B?style=flat-square) |
+| 📊 GraphQL API vulnerabilities | `5` | `5` | ![Done](https://img.shields.io/badge/COMPLETE-22C55E?style=flat-square) |
+| 🌐 Cross-origin resource sharing (CORS) | `3` | `3` | ![Done](https://img.shields.io/badge/COMPLETE-22C55E?style=flat-square) |
 ---
 
 ## 🗺️ How to Read
