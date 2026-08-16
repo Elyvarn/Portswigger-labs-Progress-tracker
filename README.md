@@ -195,8 +195,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | `86` | 2026-08-00 | Cross-site scripting | Reflected XSS protected by very strict CSP, with dangling markup attack | — | — |
 | `86` | 2026-08-00 | Cross-site scripting | Reflected XSS protected by CSP, with CSP bypass | — | — |
 | `86` | 2026-08-00 | Cross-origin resource sharing (CORS) | CORS vulnerability with basic origin reflection | — | — |
-| `86` | 2026-08-00 | — | CORS vulnerability with trusted null origin | — | — |
-| `86` | 2026-08-00 | — | CORS vulnerability with trusted insecure protocols | — | — |
+| `86` | 2026-08-00 | Cross-origin resource sharing (CORS) | CORS vulnerability with trusted null origin | — | — |
+| `86` | 2026-08-00 | Cross-origin resource sharing (CORS) | CORS vulnerability with trusted insecure protocols | — | — |
 | `86` | 2026-08-00 | — | *Pending...* | — | — |
 | `86` | 2026-08-00 | — | *Pending...* | — | — |
 | `86` | 2026-08-00 | — | *Pending...* | — | — |
