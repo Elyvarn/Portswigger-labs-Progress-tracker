@@ -171,9 +171,32 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | `80` | 2026-08-08 | GraphQL API vulnerabilities | Finding a hidden GraphQL endpoint | — | — |
 | `81` | 2026-08-08 | GraphQL API vulnerabilities | Bypassing GraphQL brute force protections | — | — |
 | `82` | 2026-08-09 | GraphQL API vulnerabilities | Performing CSRF exploits over GraphQL | — | — |
-| `83` | 2026-08-00 | — | *Pending...* | — | — |
-| `84` | 2026-08-00 | — | *Pending...* | — | — |
-| `85` | 2026-08-00 | — | *Pending...* | — | — |
+| `83` | 2026-08-00 | Cross-site scripting | Stored XSS into anchor href attribute with double quotes HTML-encoded | — | — |
+| `84` | 2026-08-00 | Cross-site scripting | Reflected XSS into a JavaScript string with angle brackets HTML encoded | — | — |
+| `85` | 2026-08-00 | Cross-site scripting | DOM XSS in document.write sink using source location.search inside a select element | — | — |
+| `86` | 2026-08-00 | Cross-site scripting | DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded | — | — |
+| `86` | 2026-08-00 | Cross-site scripting | Reflected DOM XSS | — | — |
+| `86` | 2026-08-00 | Cross-site scripting | Stored DOM XSS | — | — |
+| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS into HTML context with most tags and attributes blocked | — | — |
+| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS into HTML context with all tags blocked except custom ones | — | — |
+| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS with some SVG markup allowed | — | — |
+| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS in canonical link tag | — | — |
+| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS into a JavaScript string with single quote and backslash escaped | — | — |
+| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped | — | — |
+| `86` | 2026-08-00 | Cross-site scripting | Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped | — | — |
+| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped | — | — |
+| `86` | 2026-08-00 | Cross-site scripting | Exploiting cross-site scripting to steal cookies | — | — |
+| `86` | 2026-08-00 | Cross-site scripting | Exploiting cross-site scripting to capture passwords | — | — |
+| `86` | 2026-08-00 | Cross-site scripting | Exploiting XSS to bypass CSRF defenses | — | — |
+| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS with AngularJS sandbox escape without strings | — | — |
+| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS with AngularJS sandbox escape and CSP | — | — |
+| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS with event handlers and href attributes blocked | — | — |
+| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS in a JavaScript URL with some characters blocked | — | — |
+| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS protected by very strict CSP, with dangling markup attack | — | — |
+| `86` | 2026-08-00 | Cross-site scripting | Reflected XSS protected by CSP, with CSP bypass | — | — |
+| `86` | 2026-08-00 | Cross-origin resource sharing (CORS) | CORS vulnerability with basic origin reflection | — | — |
+| `86` | 2026-08-00 | — | CORS vulnerability with trusted null origin | — | — |
+| `86` | 2026-08-00 | — | CORS vulnerability with trusted insecure protocols | — | — |
 | `86` | 2026-08-00 | — | *Pending...* | — | — |
 | `86` | 2026-08-00 | — | *Pending...* | — | — |
 | `86` | 2026-08-00 | — | *Pending...* | — | — |
@@ -183,16 +206,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | `86` | 2026-08-00 | — | *Pending...* | — | — |
 | `86` | 2026-08-00 | — | *Pending...* | — | — |
 | `86` | 2026-08-00 | — | *Pending...* | — | — |
-| `86` | 2026-08-00 | — | *Pending...* | — | — |
-| `86` | 2026-08-00 | — | *Pending...* | — | — |
-| `86` | 2026-08-00 | — | *Pending...* | — | — |
-| `86` | 2026-08-00 | — | *Pending...* | — | — |
-| `86` | 2026-08-00 | — | *Pending...* | — | — |
-| `86` | 2026-08-00 | — | *Pending...* | — | — |
-| `86` | 2026-08-00 | — | *Pending...* | — | — |
-| `86` | 2026-08-00 | — | *Pending...* | — | — |
-| `86` | 2026-08-00 | — | *Pending...* | — | — |
-| `86` | 2026-08-00 | — | *Pending...* | — | — |
+
 
 
 ---
