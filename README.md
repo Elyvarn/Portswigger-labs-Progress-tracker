@@ -68,6 +68,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | Web LLM attacks | `1` | `8` | ![In progress](https://img.shields.io/badge/IN%20PROGRESS-F59E0B?style=flat-square) |
 | Server-side request forgery (SSRF) | `3` | `7` | ![In progress](https://img.shields.io/badge/IN%20PROGRESS-F59E0B?style=flat-square) |
 | GraphQL API vulnerabilities | `5` | `5` | ![Done](https://img.shields.io/badge/COMPLETE-22C55E?style=flat-square) |
+| Cross-origin resource sharing (CORS) | `3` | `3` | ![Done](https://img.shields.io/badge/COMPLETE-22C55E?style=flat-square) |
 ---
 
 ## 🗺️ How to Read
