@@ -14,8 +14,8 @@
 *Pwning labs. Taking notes. Breaking things responsibly.*
 
 ---
-[![Solved](https://img.shields.io/badge/Labs%20Solved-108-informational?style=for-the-badge&logo=target&logoColor=white&color=0A84FF)](https://portswigger.net/web-security)
-[![Updated](https://img.shields.io/badge/Last%20Updated-2026--08--16-informational?style=for-the-badge&logo=clockify&logoColor=white&color=F59E0B)](https://portswigger.net/web-security)
+[![Solved](https://img.shields.io/badge/Labs%20Solved-112-informational?style=for-the-badge&logo=target&logoColor=white&color=0A84FF)](https://portswigger.net/web-security)
+[![Updated](https://img.shields.io/badge/Last%20Updated-2026--08--30-informational?style=for-the-badge&logo=clockify&logoColor=white&color=F59E0B)](https://portswigger.net/web-security)
 [![Level](https://img.shields.io/badge/Level-PRACTITIONER-informational?style=for-the-badge&logo=hackthebox&logoColor=white&color=F59E0B)](https://portswigger.net/web-security)
 [![Progress](https://img.shields.io/badge/Overall%20Progress-39.4%25-informational?style=for-the-badge&logo=progress&logoColor=white&color=8B5CF6)](https://portswigger.net/web-security)
 [![Tool](https://img.shields.io/badge/Tool-Burp%20Suite-informational?style=for-the-badge&logo=burpsuite&logoColor=white&color=FF6633)](https://portswigger.net/burp)
@@ -38,8 +38,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 | Tier | Solved | Total | Progress |
 |:----:|:------:|:-----:|:--------:|
-| 🟢 **Apprentice** | `38` | `61` | ![62%](https://img.shields.io/badge/-62.3%25-22C55E?style=flat-square) |
-| 🟡 **Practitioner** | `63` | `174` | ![36%](https://img.shields.io/badge/-36.2%25-F59E0B?style=flat-square) |
+| 🟢 **Apprentice** | `39` | `61` | ![62%](https://img.shields.io/badge/-62.3%25-22C55E?style=flat-square) |
+| 🟡 **Practitioner** | `66` | `174` | ![36%](https://img.shields.io/badge/-36.2%25-F59E0B?style=flat-square) |
 | 🔴 **Expert** | `8` | `39` | ![21%](https://img.shields.io/badge/-20.5%25-EF4444?style=flat-square) |
 | ⚡ **Total** | `108` | `274` | ![39%](https://img.shields.io/badge/-39.4%25-0A84FF?style=flat-square) |
 
@@ -65,6 +65,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 🔄 Server-side request forgery (SSRF) | `3` | `7` | ![In progress](https://img.shields.io/badge/IN%20PROGRESS-F59E0B?style=flat-square) |
 | 📊 GraphQL API vulnerabilities | `5` | `5` | ![Done](https://img.shields.io/badge/COMPLETE-22C55E?style=flat-square) |
 | 🌐 Cross-origin resource sharing (CORS) | `3` | `3` | ![Done](https://img.shields.io/badge/COMPLETE-22C55E?style=flat-square) |
+|Cross-site request forgery (CSRF)| `4` | `-` |  |
 ---
 
 ## 🗺️ How to Read
