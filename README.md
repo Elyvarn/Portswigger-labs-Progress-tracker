@@ -194,10 +194,10 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | `106` | 2026-08-16 | Cross-origin resource sharing (CORS) | CORS vulnerability with basic origin reflection | — | — |
 | `107` | 2026-08-16 | Cross-origin resource sharing (CORS) | CORS vulnerability with trusted null origin | — | — |
 | `108` | 2026-08-16 | Cross-origin resource sharing (CORS) | CORS vulnerability with trusted insecure protocols | — | — |
-| `109` | 2026-08-00 | — | *Pending...* | — | — |
-| `110` | 2026-08-00 | — | *Pending...* | — | — |
-| `111` | 2026-08-00 | — | *Pending...* | — | — |
-| `112` | 2026-08-00 | — | *Pending...* | — | — |
+| `109` | 2026-08-24 | Cross-site request forgery  | CSRF vulnerability with no defenses | — | — |
+| `110` | 2026-08-29 | Cross-site request forgery | CSRF where token validation depends on request method | — | — |
+| `111` | 2026-08-30 | Cross-site request forgery | CSRF where token validation depends on token being present | — | — |
+| `112` | 2026-08-30 | Cross-site request forgery | CSRF where token is not tied to user session | — | — |
 | `113` | 2026-08-00 | — | *Pending...* | — | — |
 | `114` | 2026-08-00 | — | *Pending...* | — | — |
 | `115` | 2026-08-00 | — | *Pending...* | — | — |
