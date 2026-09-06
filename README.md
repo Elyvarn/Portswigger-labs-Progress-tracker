@@ -199,11 +199,12 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | `110` | 2026-08-29 | Cross-site request forgery | CSRF where token validation depends on request method | — | — |
 | `111` | 2026-08-30 | Cross-site request forgery | CSRF where token validation depends on token being present | — | — |
 | `112` | 2026-08-30 | Cross-site request forgery | CSRF where token is not tied to user session | — | — |
-| `113` | 2026-08-00 | Server-side template injection | PRACTITIONERBasic server-side template injection | — | — |
-| `114` | 2026-08-00 | Server-side template injection | *Pending...* | — | — |
-| `115` | 2026-08-00 | Server-side template injection | *Pending...* | — | — |
-| `116` | 2026-08-00 | Server-side template injection | *Pending...* | — | — |
-| `117` | 2026-08-00 | Server-side template injection | *Pending...* | — | — |
+| `113` | 2026-08-00 | — | PRACTITIONERBasic server-side template injection | — | — |
+| `114` | 2026-08-00 | — | PRACTITIONERBasic server-side template injection (code context) | — | — |
+| `115` | 2026-08-00 | — | PRACTITIONERServer-side template injection using documentation | — | — |
+| `116` | 2026-08-00 | — | PRACTITIONERServer-side template injection in an unknown language with a documented exploit | — | — |
+| `117` | 2026-08-00 | — | PRACTITIONERServer-side template injection with information disclosure via user-supplied objects | — | — |
+| `118` | 2026-08-00 | — | EXPERTServer-side template injection in a sandboxed environment | — | — |
 | `117` | 2026-08-00 | — | *Pending...* | — | — |
 | `117` | 2026-08-00 | — | *Pending...* | — | — |
 | `117` | 2026-08-00 | — | *Pending...* | — | — |
