@@ -199,10 +199,19 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | `110` | 2026-08-29 | Cross-site request forgery | CSRF where token validation depends on request method | — | — |
 | `111` | 2026-08-30 | Cross-site request forgery | CSRF where token validation depends on token being present | — | — |
 | `112` | 2026-08-30 | Cross-site request forgery | CSRF where token is not tied to user session | — | — |
-| `113` | 2026-08-00 | — | *Pending...* | — | — |
-| `114` | 2026-08-00 | — | *Pending...* | — | — |
-| `115` | 2026-08-00 | — | *Pending...* | — | — |
-| `116` | 2026-08-00 | — | *Pending...* | — | — |
+| `113` | 2026-08-00 | Server-side template injection | PRACTITIONERBasic server-side template injection | — | — |
+| `114` | 2026-08-00 | Server-side template injection | *Pending...* | — | — |
+| `115` | 2026-08-00 | Server-side template injection | *Pending...* | — | — |
+| `116` | 2026-08-00 | Server-side template injection | *Pending...* | — | — |
+| `117` | 2026-08-00 | Server-side template injection | *Pending...* | — | — |
+| `117` | 2026-08-00 | — | *Pending...* | — | — |
+| `117` | 2026-08-00 | — | *Pending...* | — | — |
+| `117` | 2026-08-00 | — | *Pending...* | — | — |
+| `117` | 2026-08-00 | — | *Pending...* | — | — |
+| `117` | 2026-08-00 | — | *Pending...* | — | — |
+| `117` | 2026-08-00 | — | *Pending...* | — | — |
+| `117` | 2026-08-00 | — | *Pending...* | — | — |
+| `117` | 2026-08-00 | — | *Pending...* | — | — |
 | `117` | 2026-08-00 | — | *Pending...* | — | — |
 
 
